@@ -1,2 +1,6 @@
-# ExploritoryDA-Py
-Exploratory Data Analysis using Python. This repository is part of the IBM Data Analyst Capstone focused on Python.
+# Exploratory Data Analysis
+
+<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DA-Capstone-Py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
+
+
+
