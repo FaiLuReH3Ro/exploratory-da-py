@@ -16,6 +16,7 @@ I am going to use the `clean_survey_data.csv` file I exported at the end of the 
 
 * Jupyter notebook
 * Python
+* Pandas
 * Matplotlib
 * Seaborn
 * Numpy
