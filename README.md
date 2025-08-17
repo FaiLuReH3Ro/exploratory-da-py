@@ -21,8 +21,16 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Explor
 * Seaborn
 * Numpy
 
+## Visualizations Used
+
+* Bar Chart
+* Grouped Bar Chart
+* Stack Bar Chart
+* Histogram
+* Pie Chart
+
 ## Jupyter Notebook
 
 Click on the link below to view or download the notebook.
 
-[Exploritory Data Analysis - Python](https://github.com/FaiLuReH3Ro/ExploritoryDA-Py/blob/main/Exploritory_DA.ipynb)
+[Exploratory Data Analysis - Python](https://github.com/FaiLuReH3Ro/ExploritoryDA-Py/blob/main/Exploritory_DA.ipynb)
