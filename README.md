@@ -20,3 +20,9 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Explor
 * Matplotlib
 * Seaborn
 * Numpy
+
+## Jupyter Notebook
+
+Click on the link below to view or download the notebook.
+
+[Exploritory Data Analysis - Python](https://github.com/FaiLuReH3Ro/ExploritoryDA-Py/blob/main/Exploritory_DA.ipynb)
