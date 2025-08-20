@@ -4,7 +4,7 @@
 
 ## Dataset Used
 
-I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/ExploritoryDA-Py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/data-wrangling-py) process.
+I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/exploritory-da-py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/data-wrangling-py) process.
 
 ## Objectives
 
