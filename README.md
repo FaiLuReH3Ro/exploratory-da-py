@@ -4,7 +4,7 @@
 
 ## Dataset Used
 
-I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/ExploritoryDA-Py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/DataWrangling-Py) process.
+I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/ExploritoryDA-Py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/data-wrangling-py) process.
 
 ## Objectives
 
@@ -33,4 +33,4 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Explor
 
 Click on the link below to view or download the notebook.
 
-[Exploratory Data Analysis - Python](https://github.com/FaiLuReH3Ro/ExploritoryDA-Py/blob/main/Exploritory_DA.ipynb)
+[Exploratory Data Analysis - Python](https://github.com/FaiLuReH3Ro/exploritory-da-py/blob/main/Exploritory_DA.ipynb)
