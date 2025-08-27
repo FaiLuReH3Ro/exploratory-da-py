@@ -1,24 +1,24 @@
-# Exploratory Data Analysis - Python
+# Exploratory Data Analysis - Python 🔍
 
 <p>This repository is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
 
-## Jupyter Notebook
+## 📓 Jupyter Notebook
 
-Click on the link below to view or download the notebook.
+> Click on the link below to view or download the notebook.
 
-[Exploratory Data Analysis - Python](https://github.com/FaiLuReH3Ro/exploritory-da-py/blob/main/Exploritory_DA.ipynb)
+👉 [Exploratory Data Analysis - Python](https://github.com/FaiLuReH3Ro/exploritory-da-py/blob/main/Exploritory_DA.ipynb)
 
-## Dataset Used
+## 📈 Dataset Used
 
 I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/exploritory-da-py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/data-wrangling-py) process.
 
-## Objectives
+## 🚀 Objectives
 
 * Load the clean dataset into a dataframe
 * Explore distributions across multiple variables
 * Visualize and provide an analysis
 
-## Tools Used
+## 🛠️ Tools Used
 
 * Jupyter notebook
 * Python
@@ -27,7 +27,7 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/explor
 * Seaborn
 * Numpy
 
-## Visualizations Used
+## 📊 Visualizations Used
 
 * Bar Chart
 * Grouped Bar Chart
