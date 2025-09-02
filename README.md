@@ -14,7 +14,7 @@
 
 ## 📈 Dataset Used
 
-I am going to use the [`clean survey CSV`](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-2024-cleaned-data) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/data-wrangling-py) process.
+I am going to use the [clean survey CSV](https://www.kaggle.com/datasets/failureh3ro/stack-overflow-survey-2024-cleaned-data) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/data-wrangling-py) process.
 
 ## 🚀 Objectives
 
