@@ -10,7 +10,7 @@
 
 > Click on the link below to view or download the notebook on GitHub.
 
-👉 [GitHub Notebook - Python](https://github.com/FaiLuReH3Ro/exploratory-da-py/blob/main/Exploratory_DA.ipynb)
+👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/exploratory-da-py/blob/main/Exploratory_DA.ipynb)
 
 ## 📈 Dataset Used
 
